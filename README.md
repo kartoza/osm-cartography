@@ -3,7 +3,8 @@ Our collaborative work to provide an awesome QGIS cartography for OSM.
 
 The style files for all the layers in the [`osm_mirror_qgis_project`](https://kartoza.github.io/osgs/workflows/create-osm-mirror-in-database.html) are provided as `.qml` and `.sld` files in the folders  `qml` and `sld` respectively. 
 
-The OSM Mirror Cartographic Standards document is provided as an `.odt` file and markdown file in the `cartographic_standards` folder.
+The OSM Mirror Cartographic Standards document is provided as an `.odt` file in the `cartographic_standards` folder.
+
 ## Credits
 
 ### Cartographers
